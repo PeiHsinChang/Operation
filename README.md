@@ -2,11 +2,11 @@
 
 這個repository中所用到的method  
 alert : 隸屬於 Window Object 裡面其中的一個 method  
-alert()
-prompt : 隸屬於 Window Object 裡面其中的一個 method
-prompt("String1","String2")
-String1: 在彈跳視窗出現的文字內容
-String2: 在彈跳視窗中可以輸入的文字內容
+alert()   
+prompt : 隸屬於 Window Object 裡面其中的一個 method   
+prompt("String1","String2")   
+String1: 在彈跳視窗出現的文字內容   
+String2: 在彈跳視窗中可以輸入的文字內容   
 
 parseInt : 隸屬於javascript的function
 parseInt()
