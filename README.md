@@ -1,16 +1,17 @@
 # operation
 
-剛學的method
-alert : 隸屬於 Window Object 裡面其中的一個 method
+這個repository中所用到的method  
+alert : 隸屬於 Window Object 裡面其中的一個 method  
 alert()
 prompt : 隸屬於 Window Object 裡面其中的一個 method
 prompt("String1","String2")
-
 String1: 在彈跳視窗出現的文字內容
 String2: 在彈跳視窗中可以輸入的文字內容
 
 parseInt : 隸屬於javascript的function
 parseInt()
+
+```
 <script>
 function myFunction() {
     var a = parseInt("10") + "<br>"; //10
@@ -30,24 +31,18 @@ function myFunction() {
     document.getElementById("demo").innerHTML = n;
 }
 </script>
+```
 
-
-
-		if(op === "+"){
-			result = n1 + n2;
-		}else if(op === "-"){
-			result = n1 - n2;
-		}else if(op === "*"){
-			result = n1 * n2;
-		}else if(op === "/"){
-			result = n1 /n2;
-		}else{
-			result = "輸入的運符號無效"
-		};
-		alert(result);
-	</script>
-</head>
-<body>
-	
-</body>
-</html>
+```
+if(op === "+"){
+	result = n1 + n2;
+}else if(op === "-"){
+	result = n1 - n2;
+}else if(op === "*"){
+	result = n1 * n2;
+}else if(op === "/"){
+	result = n1 /n2;
+}else{
+	result = "輸入的運符號無效"
+};
+```
