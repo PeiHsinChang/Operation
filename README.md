@@ -1,4 +1,4 @@
-# peration
+# Operation
 
 這個repository中所用到的method  
 alert : 隸屬於 Window Object 裡面其中的一個 method  
